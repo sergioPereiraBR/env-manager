@@ -66,3 +66,49 @@ if __name__ == "__main__":
     # Adicionar subtarefas para a tarefa recém-criada
     add_subtask("TASK-001", "Validar campos", "Verificar email e senha")
     add_subtask("TASK-001", "Conectar ao banco", "Integrar com PostgreSQL")
+
+
+'''
+TODO: completar tarefa
+
+### **Como Integrar com o VS Code**
+1. **Configuração de Atalho**  
+   Adicione o script como uma tarefa no `tasks.json` do VS Code para executá-lo diretamente no editor:
+   ```json
+   {
+     "label": "Criar Tarefa Kanbn",
+     "command": "python",
+     "args": ["${workspaceFolder}/generate_kanbn_ids.py"]
+   }
+   ```
+
+2. **Automatização com Extensões**  
+   Use extensões como **Python Script Runner** ou **Custom Commands** para associar o script a comandos personalizados no VS Code.
+
+---
+
+### **Exemplo de Saída no Arquivo `index.md`**
+```markdown
+- Implementar login
+  - ID: TASK-001
+  - Description: Criar tela de autenticação
+
+  - Validar campos
+    - ID: TASK-001-ST01
+    - Description: Verificar email e senha
+    - Tag: relation:TASK-001
+
+  - Conectar ao banco
+    - ID: TASK-001-ST02
+    - Description: Integrar com PostgreSQL
+    - Tag: relation:TASK-001
+```
+
+---
+Como integrar o script Python com uma API para enviar as tarefas e subtarefas diretamente para a extensão Kanban?
+
+Quais bibliotecas Python são recomendadas para gerar IDs únicos e garantir sua unicidade em um sistema distribuído?
+
+Como criar uma interface gráfica simples para que o usuário possa inserir tarefas e subtarefas e visualizar os IDs gerados automaticamente?
+
+'''
