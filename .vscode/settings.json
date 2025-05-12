@@ -1,0 +1,14 @@
+{
+  "conventionalCommits.scopes": [
+    "api",
+    "ui",
+    "db",
+    "auth",
+    "config"
+  ],
+  "conventionalCommits.autoCommit": false,
+  "conventionalCommits.gitmoji": true,
+  "conventionalCommits.promptFooter": true,
+  "conventionalCommits.promptBody": true,
+  "conventionalCommits.showEditor": true
+}
