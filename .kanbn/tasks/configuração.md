@@ -1,6 +1,6 @@
 ---
 created: 2025-05-12T00:32:59.531Z
-updated: 2025-05-12T01:30:55.067Z
+updated: 2025-05-12T02:42:59.549Z
 assigned: 'Sérgio Pereira'
 progress: 1
 tags:
@@ -20,13 +20,15 @@ Configurar Ambiente de Desenvolvimento Python
 - [x] Inicializar o projeto pelo Poetry
 - [x] Configurar o ambiente virtual do Poetry para usar o Python do Pyenv.
 - [x] Criar estrutura básica de pastas (config_manager, tests).
+- [x] Cria o projeto inicial e executa sem erro ao apresentar uma mensagem
 - [x] Configurar .gitignore básico.
 - [x] Configura o gh CLI para criar o repositório remoto
-- [x] Criar branch dev a partir da main
+- [x] Renomeia a branch padrão para "main"
 - [x] Commit inicial na branch dev - git commit -m "Commit inicial: estrutura básica do projeto"
-- [ ] Renomeia a branch padrão para "main"
-- [ ] Cria o projeto inicial e executa sem erro ao apresentar uma mensagem
-- [ ] push remote  git remote add origin https://github.com/seu-usuario/meu-projeto.git
+- [x] Configura conexão remote  git remote add origin https://github.com/sergioPereiraBR/env-manager.git
+- [x] Aponta para a branch e envia para o repositório remoto:  git push -u origin main
+- [x] Crie a branch de desenvolvimento: git checkout -b dev
+- [x] Aponta pra branch dev e envia para o repositório remoto:  git push -u origin dev
 
 ## Comments
 
