@@ -1,16 +1,19 @@
 ---
-created: 2025-05-11T14:39:20.057Z
-updated: 2025-05-11T14:39:20.053Z
+created: 2025-05-12T23:04:16.429Z
+updated: 2025-05-12T23:09:49.930Z
 assigned: 'Sergio Pereira'
 progress: 0
 tags:
-  - overview
-  - start
-due: 2025-05-18T00:00:00.000Z
-started: 2025-05-11T00:00:00.000Z
+  - TASK-0002
+  - TASK-0003
+  - TASK-0004
+  - TASK-0004-ST-012
+  - TASK-0005
 ---
 
-# Product Backlog para Sprint 1 (Timebox: 1 Semana - Foco MVP)
+# TASK-0002 TESTE
+
+Product Backlog para Sprint 1 (Timebox: 1 Semana - Foco MVP)
 
 Tema da Sprint: Estabelecer a fundação da ferramenta: conexão com banco, estrutura de dados básica, e a capacidade de gerar um arquivo .env simples via CLI.
 

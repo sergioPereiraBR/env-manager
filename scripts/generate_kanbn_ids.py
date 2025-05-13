@@ -72,7 +72,7 @@ if __name__ == "__main__":
 TODO: completar tarefa
 
 ### **Como Integrar com o VS Code**
-1. **Configuração de Atalho**  
+[x] 1. **Configuração de Atalho**  
    Adicione o script como uma tarefa no `tasks.json` do VS Code para executá-lo diretamente no editor:
    ```json
    {
@@ -82,7 +82,7 @@ TODO: completar tarefa
    }
    ```
 
-2. **Automatização com Extensões**  
+[ ] 2. **Automatização com Extensões**  
    Use extensões como **Python Script Runner** ou **Custom Commands** para associar o script a comandos personalizados no VS Code.
 
 ---

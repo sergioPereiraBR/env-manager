@@ -1,16 +1,16 @@
 ---
 created: 2025-05-12T00:32:59.531Z
-updated: 2025-05-13T04:27:24.623Z
+updated: 2025-05-12T02:42:59.549Z
 assigned: 'Sérgio Pereira'
 progress: 1
 tags:
-  - configuração
-due: 2025-05-10T00:00:00.000Z
-started: 2025-05-10T00:00:00.000Z
-completed: 2025-05-10T00:00:00.000Z
+  - teste
+due: 2025-05-11T00:00:00.000Z
+started: 2025-05-11T00:00:00.000Z
+completed: 2025-05-11T00:00:00.000Z
 ---
 
-# Configuração
+# teste
 
 Configurar Ambiente de Desenvolvimento Python
 
@@ -23,8 +23,8 @@ Configurar Ambiente de Desenvolvimento Python
 - [x] Cria o projeto inicial e executa sem erro ao apresentar uma mensagem
 - [x] Configurar .gitignore básico.
 - [x] Configura o gh CLI para criar o repositório remoto
-- [ ] Renomeia a branch padrão para "main"
-- [ ] Commit inicial na branch dev - git commit -m "Commit inicial: estrutura básica do projeto"
+- [x] Renomeia a branch padrão para "main"
+- [x] Commit inicial na branch dev - git commit -m "Commit inicial: estrutura básica do projeto"
 - [x] Configura conexão remote  git remote add origin https://github.com/sergioPereiraBR/env-manager.git
 - [x] Aponta para a branch e envia para o repositório remoto:  git push -u origin main
 - [x] Crie a branch de desenvolvimento: git checkout -b dev

@@ -1,14 +1,14 @@
 ---
 created: 2025-05-11T20:26:48.834Z
-updated: 2025-05-12T00:31:27.383Z
+updated: 2025-05-13T00:43:22.395Z
 assigned: 'Sergio Pereira'
 progress: 1
 tags:
   - start
   - 'teste, projeto'
-due: 2025-05-09T00:00:00.000Z
-started: 2025-05-09T00:00:00.000Z
-completed: 2025-05-09T00:00:00.000Z
+due: 2025-05-04T00:00:00.000Z
+started: 2025-05-04T00:00:00.000Z
+completed: 2025-05-04T00:00:00.000Z
 ---
 
 # Criar ambiente para desenvolvimento
@@ -17,15 +17,15 @@ Preparar as condições mínimas para iniciar o projeto
 
 ## Sub-tasks
 
-- [ ] Criar uma ambiente vitual e com as dependências isoladas do resto do sistema
-- [ ] Instalar as ferramentas para início do projeto
-- [ ] iniciar o projeto
-- [ ] iniciar o respositório local
-- [ ] criar e iniciar o repositório remoto
+- [x] Criar uma ambiente vitual e com as dependências isoladas do resto do sistema
+- [x] Instalar as ferramentas para início do projeto
+- [x] iniciar o projeto
+- [x] iniciar o respositório local
+- [x] criar e iniciar o repositório remoto
 
 ## Relations
 
-- [Id-task ](.md)
+- [Type teste Id-task](Id-task.md)
 
 ## Comments
 
@@ -43,7 +43,7 @@ Preparar as condições mínimas para iniciar o projeto
   [System.Environment]::SetEnvironmentVariable("PATH", "%USERPROFILE%\.pyenv\pyenv-win\bin;%USERPROFILE%\.pyenv\pyenv-win\shims;" + $env:Path, "Machine")
 - author: Sergio Pereira
   date: 2025-05-11T23:29:09.224Z
-  PS D:\02_trabalho\01_dev_software\pereira_dev\tools\env_manager> python --version                                       
+  PS D:\02_trabalho\01_dev_software\pereira_dev\tools\env_manager> python --version
   Python 3.11.4
   PS D:\02_trabalho\01_dev_software\pereira_dev\tools\env_manager> poetry new env_manager
   Created package env_manager in env_manager
@@ -96,7 +96,7 @@ Preparar as condições mínimas para iniciar o projeto
   Writing lock file
   
   Installing the current project: env-manager (0.1.0)
-  PS D:\02_trabalho\01_dev_software\pereira_dev\tools\env_manager\env_manager> poetry env info    
+  PS D:\02_trabalho\01_dev_software\pereira_dev\tools\env_manager\env_manager> poetry env info
   
   Virtualenv
   Python:         3.11.4
