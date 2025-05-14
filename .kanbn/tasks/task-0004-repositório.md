@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:26.950Z
-updated: 2025-05-13T05:14:28.107Z
-assigned: ""
+updated: 2025-05-13T12:34:35.111Z
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0004
 ---
 
 # TASK-0004 - Repositório

@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:49.973Z
 updated: 2025-05-13T05:14:50.889Z
-assigned: ""
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0007
 ---
 
 # TASK-0007 - Testes

@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:34.547Z
 updated: 2025-05-13T05:14:36.259Z
-assigned: ""
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0005
 ---
 
 # TASK-0005 - Caso de Uso

@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:42.436Z
 updated: 2025-05-13T05:14:43.523Z
-assigned: ""
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0006
 ---
 
 # TASK-0006 - CLI

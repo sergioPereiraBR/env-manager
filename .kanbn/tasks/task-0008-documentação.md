@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:56.966Z
 updated: 2025-05-13T05:14:58.291Z
-assigned: ""
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0008
 ---
 
 # TASK-0008 - Documentação

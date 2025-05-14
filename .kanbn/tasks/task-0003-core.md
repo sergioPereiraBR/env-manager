@@ -1,9 +1,10 @@
 ---
 created: 2025-05-13T05:14:04.313Z
-updated: 2025-05-13T05:14:05.740Z
-assigned: ""
+updated: 2025-05-13T12:34:30.626Z
+assigned: 'Sergio Pereira'
 progress: 0
-tags: []
+tags:
+  - TASK-0003
 ---
 
 # TASK-0003 - Core

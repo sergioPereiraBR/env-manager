@@ -4,7 +4,8 @@
     "ui",
     "db",
     "auth",
-    "config"
+    "config",
+    "Instala e configurar SQLAlchemy e Alembic e cria e conecta o db para o projeto"
   ],
   "conventionalCommits.autoCommit": false,
   "conventionalCommits.gitmoji": true,
